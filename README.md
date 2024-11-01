@@ -1,1 +1,1 @@
-Communication systems student at EPFL
+Data Science student at EPFL
